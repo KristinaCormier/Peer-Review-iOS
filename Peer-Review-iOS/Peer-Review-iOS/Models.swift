@@ -36,6 +36,9 @@ struct Review: Codable {
 }
 
 struct LoginResponse: Codable {
-    let token: String
+    let email: String
+    let id: Int
     let must_change_password: Bool
+    let name: String
+    let role: String
 }

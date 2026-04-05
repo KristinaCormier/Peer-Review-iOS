@@ -64,15 +64,11 @@ struct LoginView: View {
                 
                 Spacer()
                 
-                // NAVIGATION
-                NavigationLink(
-                    destination: HomeView(),
-                    isActive: $isLoggedIn
-                ) {
-                    EmptyView()
-                }
             }
             .padding()
+            .navigationDestination(isPresented: $isLoggedIn) {
+                HomeView()
+            }
         }
     }
     
@@ -94,8 +90,10 @@ struct LoginView: View {
             }
             
         } catch {
-            errorMessage = "Invalid email or password"
+            errorMessage = error.localizedDescription
+            print("Login error:", error)
         }
+        
         
         isLoading = false
     }
@@ -104,3 +102,4 @@ struct LoginView: View {
 #Preview {
     LoginView()
 }
+
