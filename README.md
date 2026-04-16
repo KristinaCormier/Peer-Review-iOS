@@ -1,47 +1,6 @@
 🟣 1. MARKDOWN-STYLE STRUCTURE OF OUR REPO:
 
-Peer-Review-iOS/
-└── Peerreview/
-    ├── Peerreview.xcodeproj/
-    ├── Peerreview/
-    │   ├── Assets.xcassets/
-    │   ├── AdminCoursesView.swift
-    │   ├── AssignmentHubView.swift
-    │   ├── AssignmentTemplateView.swift
-    │   ├── AssignmentView.swift
-    │   ├── BrainstormTemplateView.swift
-    │   ├── Brainstorming.pdf
-    │   ├── CourseCardView.swift
-    │   ├── CourseDetailView.swift
-    │   ├── CreateAssignmentView.swift
-    │   ├── CreateReviewView.swift
-    │   ├── ForgotPasswordView.swift
-    │   ├── HomeView.swift
-    │   ├── LoginView.swift
-    │   ├── LoginViewWrapper.swift
-    │   ├── ManageProfessorsView.swift
-    │   ├── ManageStudentsView.swift
-    │   ├── Models.swift
-    │   ├── MyReviewsView.swift
-    │   ├── PDFDocumentWrapper.swift
-    │   ├── PDFViewer.swift
-    │   ├── PastAssignmentView.swift
-    │   ├── PeerreviewApp.swift
-    │   ├── ProfileView.swift
-    │   ├── QuickLookPreview.swift
-    │   ├── ReviewFormView.swift
-    │   ├── ReviewView.swift
-    │   ├── SearchView.swift
-    │   ├── SidebarView.swift
-    │   ├── SplashView.swift
-    │   ├── TemplatesView.swift
-    │   ├── UpcomingAssignmentView.swift
-    │   ├── UploadAssignmentView.swift
-    │   ├── UserSession.swift
-    │   └── assignment.pdf
-    │
-    ├── PeerreviewTests/
-    └── PeerreviewUITests/
+<img width="328" height="722" alt="image" src="https://github.com/user-attachments/assets/d3947e06-1f82-48ee-b4c1-649a51c3d07d" />
 
 🟣 2. APP FLOW (VERY IMPORTANT)
 
