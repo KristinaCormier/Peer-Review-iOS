@@ -1,4 +1,4 @@
-🟣 1. MARKDOWN-STYLE STRUCTURE OF OUR REPO:
+🟣 1. MARKDOWN-STYLE STRUCTURE OF OUR FILES:
 
 <img width="328" height="722" alt="image" src="https://github.com/user-attachments/assets/d3947e06-1f82-48ee-b4c1-649a51c3d07d" />
 
@@ -14,6 +14,7 @@ Entry point →
 Splash →
 Login →
 Dashboard →
+
 🟣 3. ROLES SYSTEM
 
 We have implemented a role-based system with three roles:
@@ -27,6 +28,7 @@ Based on the selected role, the app shows different functionalities like managin
 👉 Mention:
 
 Role enum →
+
 🟣 4. MAIN FEATURES (SAY THIS CLEAN)
 📌 Dashboard
 
@@ -88,6 +90,7 @@ Manage courses
 Manage Students →
 Manage Professors →
 Courses →
+
 🟣 5. ARCHITECTURE (VERY IMPORTANT PART)
 
 The app is structured using a SwiftUI-based modular architecture.
@@ -121,6 +124,7 @@ Navigation is implemented using:
 
 NavigationStack
 navigationDestination
+
 🟣 6. ANIMATIONS (REQUIREMENT)
 
 We implemented animations in the splash screen using:
@@ -147,6 +151,7 @@ Our project satisfies most requirements:
 ✅ Multiple views
 ✅ Animations
 ⚠️ Database simulated using local state
+
 🟣 9. CONCLUSION (END LIKE THIS)
 
 Overall, this application demonstrates a complete peer review system interface, with scalable architecture that can be extended with backend integration.
