@@ -2,6 +2,8 @@
 
 <img width="328" height="722" alt="image" src="https://github.com/user-attachments/assets/d3947e06-1f82-48ee-b4c1-649a51c3d07d" />
 
+Pages can be found here: https://github.com/KristinaCormier/Peer-Review-iOS/tree/dev/Peerreview/Peerreview 
+
 🟣 2. APP FLOW (VERY IMPORTANT)
 
 The app starts with a Splash Screen, then goes to Login Page, and after authentication, the user is taken to the Dashboard.
